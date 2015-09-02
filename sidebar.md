@@ -1,4 +1,5 @@
 - [hikalium.com](index.php)
  - [hikaliumについて](index.php?q=about)
  - [これまでの成果物](index.php?q=products)
+ - [リンク](index.php?q=link)
 - [lan.hikalium.com](http://lan.hikalium.com)
