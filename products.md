@@ -10,6 +10,7 @@
 ###2014年
 - kanoQsys Webアンケート集計システム [PHP][MySQL]
 - [Mind Graph Canvas](projects/mgcanvas/index.html) 人工知能の知識データベース視覚化を目的 [Javascript]
+ - [Gitリポジトリ](http://pcd.gakugei-hs.info/git/hikalium/mgcanvas)
 - [random logo maker](projects/randlogo/randlogo.html) 矩形を用いたカラフルなロゴをランダム生成 [Javascript]
 
 ###2015年
