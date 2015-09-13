@@ -16,3 +16,4 @@
 ###2015年
 - [bubble canvas](projects/bubble/index.html) キャンバスいっぱいにカラフルな円がアニメーションする [Javascript]
 - [Nonose Lan](http://lan.hikalium.com) Twitterボット型人工知能を目指す人工無能 [Javascript]
+- [stempad](https://github.com/WasedaAISociety/stempad) 文章中の単語に対する概念の差異を明確にするシステムおよびエディタ [TypeScript]

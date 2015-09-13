@@ -1,5 +1,8 @@
 ## hikalium について
 本サイトの管理者。
+
+2014年頃まではhikarupspという名前で活動していた。
+
 ###連絡先
 - Twitter [@hikalium](https://twitter.com/hikalium)
 - [メール](http://www.google.com/recaptcha/mailhide/d?k=01yF1wjvVvLnxWlfEQMOF2zQ==&c=d-VnSZYkm6qwCuGbRwSRJatIbG6ItgzPgWaqncVxy4A=)
@@ -12,7 +15,8 @@
 ###利用可能なプログラミング言語
 - C
 - Objective-C
-- Javascript
+- JavaScript
 - PHP
 - Assembly(x86)
+- TypeScript
 
