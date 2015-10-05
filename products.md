@@ -9,11 +9,11 @@
 
 ###2014年
 - kanoQsys Webアンケート集計システム [PHP][MySQL]
-- [Mind Graph Canvas](projects/mgcanvas/index.html) 人工知能の知識データベース視覚化を目的 [Javascript]
+- [Mind Graph Canvas](../projects/mgcanvas/index.html) 人工知能の知識データベース視覚化を目的 [Javascript]
  - [Gitリポジトリ](http://pcd.gakugei-hs.info/git/hikalium/mgcanvas)
-- [random logo maker](projects/randlogo/randlogo.html) 矩形を用いたカラフルなロゴをランダム生成 [Javascript]
+- [random logo maker](../projects/randlogo/randlogo.html) 矩形を用いたカラフルなロゴをランダム生成 [Javascript]
 
 ###2015年
-- [bubble canvas](projects/bubble/index.html) キャンバスいっぱいにカラフルな円がアニメーションする [Javascript]
+- [bubble canvas](../projects/bubble/index.html) キャンバスいっぱいにカラフルな円がアニメーションする [Javascript]
 - [Nonose Lan](http://lan.hikalium.com) Twitterボット型人工知能を目指す人工無能 [Javascript]
 - [stempad](https://github.com/WasedaAISociety/stempad) 文章中の単語に対する概念の差異を明確にするシステムおよびエディタ [TypeScript]
