@@ -12,11 +12,13 @@
 - [OSECPU](http://osecpu.osask.jp/wiki/)
 - [CHNOSProject](http://chnosproject.osdn.jp/wiki147u/index.php)
 
-###利用可能なプログラミング言語
+###利用可能なプログラミング言語（使い始めた順）
 - C
-- Objective-C
+- C#
+- Assembly(x86)
 - JavaScript
 - PHP
-- Assembly(x86)
+- Objective-C
 - TypeScript
-
+- [J](http://www.jsoftware.com/)
+- Python
