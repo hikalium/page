@@ -50,3 +50,6 @@ RVRNIsdR0/5WFZR2sa83VeOp
 ```
 90A7 A2B5 5E6E 13E3 CE1C  645E 29C6 B66D 82CF 5EB2
 ```
+
+### Usage
+- [note/pgp.md](./note/pgp.md)
