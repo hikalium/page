@@ -1,4 +1,11 @@
 ## PGPのメモ
+### Windowsの場合
+- https://www.gpg4win.org/download.html
+
+### Macの場合
+- https://gpgtools.org/
+
+### コマンド集
 - http://www.wakayama-u.ac.jp/~takehiko/pgp.html
 ```
 # 公開鍵のエクスポート（ASCII形式）
