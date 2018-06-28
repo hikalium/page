@@ -1,10 +1,5 @@
-## hikalium.com へようこそ！
+## Welcome!
 
-hikalium.comでは、プログラミングと人工知能に関連する情報をまとめています。
+This is hikalium.com.
 
-* [hikaliumによる解説テキスト](page/lectures/)
- * [よくわからないときのC言語](page/lectures/c/)
-
-
-* [コード断片集](page/codesnippets/)
-
+Do not attack this site. There is no flags at all ;)

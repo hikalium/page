@@ -1,24 +1,29 @@
-## hikalium について
-本サイトの管理者。
+## Profile
+### whois hikalium
+Low-level programmer/student.
 
-2014年頃まではhikarupspという名前で活動していた。
+`hikarupsp` is my alias in `*.osask.jp` domain (in 2014 and before).
 
-###連絡先
+### Contacts
 - Twitter [@hikalium](https://twitter.com/hikalium)
-- [メール](http://www.google.com/recaptcha/mailhide/d?k=01yF1wjvVvLnxWlfEQMOF2zQ==&c=d-VnSZYkm6qwCuGbRwSRJatIbG6ItgzPgWaqncVxy4A=)
+- [e-mail](http://www.google.com/recaptcha/mailhide/d?k=01yF1wjvVvLnxWlfEQMOF2zQ==&c=d-VnSZYkm6qwCuGbRwSRJatIbG6ItgzPgWaqncVxy4A=)
 
-###興味のある分野・プロジェクト
-- 人工知能
-- [OSECPU](http://osecpu.osask.jp/wiki/)
-- [CHNOSProject](http://chnosproject.osdn.jp/wiki147u/index.php)
+### Interest area
+- Low-layer (such as Operating System, CPU, etc...)
+  - [OSECPU](http://osecpu.osask.jp/wiki/)
+  - [CHNOSProject](http://chnosproject.osdn.jp/wiki147u/index.php)
+- Chatbot (see [deborah](https://github.com/fourseasonslab/deborah))
 
-###利用可能なプログラミング言語（使い始めた順）
+To check other projects, see [products](/products).
+
+### Available programming languages
 - C
-- C#
+- C++
 - Assembly(x86)
 - JavaScript
-- PHP
-- Objective-C
 - TypeScript
-- [J](http://www.jsoftware.com/)
+- Objective-C
 - Python
+- C#
+- PHP
+- [J](http://www.jsoftware.com/)
