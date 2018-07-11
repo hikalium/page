@@ -6,7 +6,7 @@ Low-level programmer/student.
 
 ### Contacts
 - Twitter [@hikalium](https://twitter.com/hikalium)
-- [e-mail](http://www.google.com/recaptcha/mailhide/d?k=01yF1wjvVvLnxWlfEQMOF2zQ==&c=d-VnSZYkm6qwCuGbRwSRJatIbG6ItgzPgWaqncVxy4A=)
+- e-mail `hikalium`@`<this domain>`
 
 ### Interest area
 - Low-layer (such as Operating System, CPU, etc...)
